@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page2",
-    "slug": "page2",
+    "name": "gsheets",
+    "slug": "gsheets",
     "layouts": [
       {
         "viewMode": false,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page2_Api1",
+              "id": "gsheets_Api1",
               "name": "Api1",
               "confirmBeforeExecute": false,
               "pluginType": "SAAS",
@@ -39,14 +39,15 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page2",
+        "id": "gsheets",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "66137e45ef40c321c62da448_66138a78b44e10604034fb74"

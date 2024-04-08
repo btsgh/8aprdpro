@@ -1,6 +1,14 @@
 {
   "pages": [
     {
+      "id": "2 Application Upload",
+      "isDefault": false
+    },
+    {
+      "id": "1 Track Applications",
+      "isDefault": false
+    },
+    {
       "id": "Widgets Random",
       "isDefault": true
     },
@@ -21,7 +29,11 @@
       "isDefault": false
     },
     {
-      "id": "Page2",
+      "id": "gsheets",
+      "isDefault": false
+    },
+    {
+      "id": "Page3",
       "isDefault": false
     }
   ],
