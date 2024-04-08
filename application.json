@@ -1,0 +1,49 @@
+{
+  "pages": [
+    {
+      "id": "Widgets Random",
+      "isDefault": true
+    },
+    {
+      "id": "S3 gpwd",
+      "isDefault": false
+    },
+    {
+      "id": "copied widgets",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
+    },
+    {
+      "id": "Gac",
+      "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "color": "#C2DAF0",
+  "icon": "bird",
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
