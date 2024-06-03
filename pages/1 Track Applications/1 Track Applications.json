@@ -1,87 +1,32 @@
 {
+  "gitSyncId": "66138e60b44e10604034fb95_66138ed3b44e10604034fbb6",
   "unpublishedPage": {
-    "name": "1 Track Applications",
-    "slug": "1-track-applications",
     "layouts": [
       {
-        "viewMode": false,
         "dsl": {
-          "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1160,
-          "snapColumns": 64,
-          "detachFromLayout": true,
-          "widgetId": "0",
-          "topRow": 0,
           "bottomRow": 1140,
-          "containerStyle": "none",
-          "snapRows": 128,
-          "parentRowSpace": 1,
-          "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 89,
-          "minHeight": 850,
-          "parentColumnSpace": 1,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
           "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "dynamicBindingPathList": []
-        },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "1 Track Applications_Utils.dataCount",
-              "name": "Utils.dataCount",
-              "collectionId": "1 Track Applications_Utils",
-              "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "1 Track Applications_Utils.dropdownData",
-              "name": "Utils.dropdownData",
-              "collectionId": "1 Track Applications_Utils",
-              "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "1 Track Applications_Utils.filteredApplications",
-              "name": "Utils.filteredApplications",
-              "collectionId": "1 Track Applications_Utils",
-              "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "1 Track Applications_getApplicationRound",
-              "name": "getApplicationRound",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "tbl_application.selectedRow.id"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
-        "layoutOnLoadActionErrors": [],
-        "validOnPageLoadActions": true,
-        "id": "1 Track Applications",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+          "minHeight": 850,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1160,
+          "snapColumns": 64,
+          "snapRows": 128,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 89,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
       }
     ],
-    "userPermissions": [],
-    "policies": []
-  },
-  "deleted": false,
-  "gitSyncId": "66138e60b44e10604034fb95_66138ed3b44e10604034fbb6"
+    "name": "1 Track Applications",
+    "slug": "1-track-applications"
+  }
 }
